@@ -1,16 +1,16 @@
 [![MasterHead](https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif)](https://rishavchanda.io) 
 
-<h1 align="center">Hi 👋, I'm Emre GÜNGÖR</h1>
+<h1 align="center">Hi , I'm Emre GÜNGÖR</h1>
 <h3 align="center">I'm a Front-End software student and an expert candidate</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emregyungor&label=Profile%20views&color=0e75b6&style=flat" alt="emregyungor" /> </p>
 
-- 🌱 I’m currently learning **HTML , CSS , JAVASCRİPT , REACT JS ,BOOTSTRAP**
+-  I’m currently learning **HTML , CSS , JAVASCRİPT , REACT JS ,BOOTSTRAP**
 
-- 👨‍💻 All of my projects are available at [github.com/emregyungor](github.com/emregyungor)
+-  All of my projects are available at [github.com/emregyungor](github.com/emregyungor)
 
-- 📫 How to reach me **emioni123@gmail.com**
+-  How to reach me **emioni123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
