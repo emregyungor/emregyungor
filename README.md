@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif)](https://rishavchanda.io) 
 
 <h1 align="center">Hi 👋, I'm Emre GÜNGÖR</h1>
 <h3 align="center">I'm a Front-End software student and an expert candidate</h3>
